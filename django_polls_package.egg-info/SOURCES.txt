@@ -18,3 +18,8 @@ django_polls_package.egg-info/requires.txt
 django_polls_package.egg-info/top_level.txt
 django_polls_package/migrations/0001_initial.py
 django_polls_package/migrations/__init__.py
+django_polls_package/static/polls/style.css
+django_polls_package/static/polls/images/background.avif
+django_polls_package/templates/polls/detail.html
+django_polls_package/templates/polls/index.html
+django_polls_package/templates/polls/results.html
